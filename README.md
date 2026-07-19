@@ -12,16 +12,16 @@ This is the landing page where users can upload their resume and choose their ta
 
 After analyzing the resume, ResumeIQ-AI displays the ATS score, resume quality, and overall evaluation.
 
-![Score Overview](assets/scoreoverview.png)
+![Score Overview](assets/score-overview.png)
 
 ## 🧩 Skills Breakdown
 
 The application identifies detected skills and highlights missing skills required for the selected role.
 
-![skill breakdown](assets/skillbreakdown.png)
+![skill breakdown](assets/skill-breakdown.png)
 
 ## 💡 Improvement Suggestions
 
 ResumeIQ-AI provides personalized recommendations to improve the resume and increase ATS compatibility.
 
-![Improvement Suggestions](assets/improvementsuggestion.png)
+![Improvement Suggestions](assets/improvement-suggestion.png)
