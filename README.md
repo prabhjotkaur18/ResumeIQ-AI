@@ -1,3 +1,7 @@
+## 🚀 Live Demo
+
+[🔗 Try ResumeIQ-AI](https://resumeiq-ai-ih3uf3eph5u3fzcdv8bmbq.streamlit.app)
+
 # ResumeIQ-AI
 ResumeIQ-AI is an AI-powered web application that analyzes resumes using Google's Gemini AI. It calculates ATS compatibility, identifies missing skills, provides personalized career recommendations, and suggests improvements to help users build stronger resumes.
 ## 📸 Screenshots
